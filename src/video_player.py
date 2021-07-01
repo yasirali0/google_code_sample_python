@@ -165,9 +165,9 @@ class VideoPlayer:
     def show_all_playlists(self):
         """Display all playlists."""
 
-        all_playlists = self._video_playlist._playlists.keys()
-        print(all_playlists)
-        
+        # all_playlists = self._video_playlist._playlists.keys()
+        # print(all_playlists)
+        pass
 
     def show_playlist(self, playlist_name):
         """Display all videos in a playlist with a given name.
